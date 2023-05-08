@@ -15,5 +15,13 @@
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "swr": "^2.1.5"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/koga0519/weekly-report2.git"
+  },
+  "bugs": {
+    "url": "https://github.com/koga0519/weekly-report2/issues"
+  },
+  "homepage": "https://github.com/koga0519/weekly-report2#readme"
 }
